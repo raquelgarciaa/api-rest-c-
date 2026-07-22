@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{794186FE-5E46-D129-424C-EDE5C9E29283}|api-with-redis.csproj|c:\\users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{794186FE-5E46-D129-424C-EDE5C9E29283}|api-with-redis.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794186FE-5E46-D129-424C-EDE5C9E29283}|api-with-redis.csproj|c:\\users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\api-with-redis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{794186FE-5E46-D129-424C-EDE5C9E29283}|api-with-redis.csproj|solutionrelative:api-with-redis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794186FE-5E46-D129-424C-EDE5C9E29283}|api-with-redis.csproj|c:\\users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\dist\\api-with-redis.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{794186FE-5E46-D129-424C-EDE5C9E29283}|api-with-redis.csproj|solutionrelative:dist\\api-with-redis.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dockerfile",
+              "DocumentMoniker": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\dockerfile",
+              "RelativeDocumentMoniker": "dockerfile",
+              "ToolTip": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\dockerfile",
+              "RelativeToolTip": "dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-22T13:09:42.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "api-with-redis.deps.json",
+              "DocumentMoniker": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\dist\\api-with-redis.deps.json",
+              "RelativeDocumentMoniker": "dist\\api-with-redis.deps.json",
+              "ToolTip": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\dist\\api-with-redis.deps.json",
+              "RelativeToolTip": "dist\\api-with-redis.deps.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-22T13:07:13.259Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -20,8 +59,17 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "api-with-redis.csproj",
+              "DocumentMoniker": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\api-with-redis.csproj",
+              "RelativeDocumentMoniker": "api-with-redis.csproj",
+              "ToolTip": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\api-with-redis.csproj",
+              "RelativeToolTip": "api-with-redis.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-22T12:37:25.328Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api-with-redis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b07d77656e553416ca4af6f71ee08d1d9e06c06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3de8e90a03477114919d27bc5bb0ce28b407dc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("api-with-redis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api-with-redis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

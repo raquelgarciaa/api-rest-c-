@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{794186FE-5E46-D129-424C-EDE5C9E29283}|api-with-redis.csproj|c:\\users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794186FE-5E46-D129-424C-EDE5C9E29283}|api-with-redis.csproj|solutionrelative:dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794186FE-5E46-D129-424C-EDE5C9E29283}|api-with-redis.csproj|c:\\users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\api-with-redis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{794186FE-5E46-D129-424C-EDE5C9E29283}|api-with-redis.csproj|solutionrelative:api-with-redis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -20,12 +29,29 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "api-with-redis.csproj",
+              "DocumentMoniker": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\api-with-redis.csproj",
+              "RelativeDocumentMoniker": "api-with-redis.csproj",
+              "ToolTip": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\api-with-redis.csproj",
+              "RelativeToolTip": "api-with-redis.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-22T12:37:25.328Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dockerfile",
+              "DocumentMoniker": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\dockerfile",
+              "RelativeDocumentMoniker": "dockerfile",
+              "ToolTip": "C:\\Users\\raque\\source\\repos\\api-rest-c-\\api-with-redis\\dockerfile",
+              "RelativeToolTip": "dockerfile",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-22T12:39:48.739Z",
+              "EditorCaption": ""
             }
           ]
         }
